@@ -1,15 +1,7 @@
 #Buildbox 2.x Game Development
 This is the code repository for [Buildbox 2.x Game Development](https://www.packtpub.com/game-development/buildbox-2x-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781786460301), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+
 ##Instructions and Navigations
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
-
-
-
-The code will look like the following:
-```
-
-```
-
 You’ll need a Mac or PC that meets the minimum specifications for Buildbox. You should
 also have either a trial or full license for Buildbox version 2.x. Having graphics software
 such as Gimp or Adobe Photoshop is highly encouraged, but not required (as for the
