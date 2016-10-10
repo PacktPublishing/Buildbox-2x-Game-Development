@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>10843</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterIcon</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Icon</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10868</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterIcon</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Icon</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10881</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterIcon</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Icon</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

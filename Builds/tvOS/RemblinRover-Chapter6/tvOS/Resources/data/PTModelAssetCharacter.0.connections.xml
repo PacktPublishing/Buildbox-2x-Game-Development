@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>111</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>113</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2400</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>154</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>979</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11312</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11507</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>117</string>
+                    <string>10843</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9016</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9018</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9079</string>
+                </dict>
+                <key>Bullet Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9098</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9060</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11317</string>
+                </dict>
+                <key>Shoot Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11316</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11518</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>9022</string>
+                    <string>10881</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9395</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9397</string>
+                </dict>
+                <key>Bullet Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9472</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9448</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11318</string>
+                </dict>
+                <key>Shoot Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11321</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11529</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>9401</string>
+                    <string>9853</string>
+                    <string>9854</string>
+                    <string>10868</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>

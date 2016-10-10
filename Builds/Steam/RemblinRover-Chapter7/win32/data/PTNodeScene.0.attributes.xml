@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1393</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Mars Training Ground</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{99.000,-102.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1899</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gliese 581D</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{94.000,8.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1920</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Kepler 186F</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{101.000,121.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3432</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Mars Secret Level</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{337.000,-82.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5726</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gliese Secret Level</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{326.000,14.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7682</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Kepler Secret Level</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{356.000,145.000}</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

@@ -1,0 +1,613 @@
+﻿  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelAnimation.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelAnimation.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelAssetCharacter.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelAssetCharacter.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelAssetObstacle.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelAssetObstacle.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelAssetPowerup.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelAssetPowerup.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelAtlas.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelAtlas.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentCharacterGameplaySettings.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentCharacterGameplaySettings.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentCharacterIcon.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentCharacterIcon.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentDamage.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentDamage.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentHealth.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentHealth.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentSpawner.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentSpawner.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentWakeup.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelComponentWakeup.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelFont.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelFont.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelGeneralSettings.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelGeneralSettings.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelLevelSection.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelLevelSection.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelLinker.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelLinker.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAccelerometer.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAccelerometer.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetCharacter.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetCharacter.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetFlag.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetFlag.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetLight.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetLight.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetLogic.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetLogic.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetParticles.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetParticles.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetParticlesEmitter.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetParticlesEmitter.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetPath.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetPath.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetPowerup.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetPowerup.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetScreenJump.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetScreenJump.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetUnit.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetUnit.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetUnit.1.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectAssetUnit.1.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectBackground.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectBackground.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectButton.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectButton.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectButtonControl.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectButtonControl.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectButtonPurchase.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectButtonPurchase.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectButtonUrl.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectButtonUrl.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectCharacterSelector.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectCharacterSelector.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectEventObserver.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectEventObserver.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectImage.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectImage.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectLabel.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectLabel.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectLoadingBar.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelObjectLoadingBar.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelScreen.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelScreen.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelScreenScene.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelScreenScene.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelSound.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelSound.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelSprite.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelSprite.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelSpriteContainer.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTModelSpriteContainer.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTNodeScene.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTNodeScene.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTNodeUI.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTNodeUI.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTNodeUIStart.0.attributes.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\PTNodeUIStart.0.connections.xml
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10518.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10518.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10527.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10527.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10534.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10534.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10677.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10677.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID107.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID107.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10774.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10774.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10916.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID10916.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID11537.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID11537.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID1999.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID1999.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID2099.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID2099.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID2170.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID2170.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID2201.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID2201.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID4705.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID4705.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID4712.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID4712.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID6071.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID6071.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID6549.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID6549.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID6565.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID6565.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID6570.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID6570.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID6632.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID6632.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID7359.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID7359.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID9040.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID9040.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID9819.plist
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\atlases\atlas_ID9819.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\fonts\PTModelFont_ID10227.fnt
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\fonts\PTModelFont_ID10227.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\fonts\PTModelFont_ID10322.fnt
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\fonts\PTModelFont_ID10322.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\fonts\PTModelFont_ID10560.fnt
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\fonts\PTModelFont_ID10560.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\fonts\PTModelFont_ID2.fnt
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\fonts\PTModelFont_ID2.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11109.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11312.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11316.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11317.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11318.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11320.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11321.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11322.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11323.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11372.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11373.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11376.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11377.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11433.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11437.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11438.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11441.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11487.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11490.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11491.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11495.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11496.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11497.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11498.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11507.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11518.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\sounds\PTModelSound_ID11529.mp3
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\fx\lightMap.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\fx\flagMap.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\fx\trailMap.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID9978.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID10033.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID10056.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID1043.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID1051.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID1187.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID3416.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID4802.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID5086.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID5621.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID6846.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID7404.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID7608.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID8253.png
+  V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\data\images\PTModelSprite_ID9534.png
+  187 File(s) copied
+  main.cpp
+core.lib(PTPInputController.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAppDelegate.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPScreenScene.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPScreensController.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPScreen.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelController.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelGeneralSettings.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPSettingsController.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModel.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelCompound.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObject.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAsset.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAsset.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetCharacter.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectButton.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelLinker.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelLevelSection.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectButtonPurchase.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentHealth.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTServices.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAccelerometer.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAdController.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(GLESDebugDraw.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPContactListener.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPGameFieldCamera.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelSound.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelSpriteContainer.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObject.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetPowerup.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectImage.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectButton.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectButtonPowerup.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAnimationObject.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelScreen.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectText.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetPowerup.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectBackgroundLayer.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectGeneralSettings.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectGroup.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetTeleport.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetMirror.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelScreenScene.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPScreenUi.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPScoreController.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPCheckpointsController.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTSpriteUtils.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(GLESDebugDrawLayer.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTNode.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeEnum.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectEventObserver.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectUnlocker.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelAssetPowerup.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectButtonPowerup.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectButtonPurchase.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectButtonJoystick.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectEventObserver.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectLoadingBar.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectImage.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectCharacterSelector.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectSwipeControl.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTSoundController.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTStore.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelSprite.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelAnimation.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelAtlas.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelFont.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetUnit.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentCharacterGameplaySettings.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentCharacterIcon.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentDamage.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentIsoJump.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentMotor.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentMove.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentRotationMapper.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentSlide.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentSpawner.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentWakeup.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentForcedMovement.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponentDeletionThreshold.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTNodeScene.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTNodeUI.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTNodeUIStart.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelAssetCharacter.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelAssetObstacle.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectManipulator.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAccelerometer.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetCharacter.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetFlag.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetGatekeeper.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetLight.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetLogic.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetMirror.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetParticles.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetParticlesEmitter.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetPath.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetScreenJump.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetTeleport.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectAssetTrail.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectBackground.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectButtonCharacterUnlock.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectButtonControl.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectButtonUrl.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectButtonFacebook.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectButtonSoundControl.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectButtonSwitch.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectCharacterSelector.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectGroup.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectInstance.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectLabel.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectLoadingBar.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectLockButton.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelObjectSwipeControl.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeAction.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeFloat.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributePoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeSprite.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeBoolean.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeKey.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeString.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPLockController.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeGroup.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelComponent.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelAsset.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeAsset.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTComponent.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetUnit.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelPolygon.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetLight.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetLogic.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetTrail.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetFlag.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetPath.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetParticles.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetGatekeeper.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectAssetScreenJump.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTComponentHealth.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectButtonUrl.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectButtonFacebook.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectButtonSwitch.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectButtonUnlockCharacter.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectButtonLock.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeSound.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeAnimation.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPObjectManipulator.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAdAdMob.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAdChartboost.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAdIAd.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAdRevMob.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAdAppLovin.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAdLeadBolt.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAdFacebook.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAdHeyzap.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAdVungle.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAnimationCurve.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(CCParallaxScrollNode.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeShape.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributePath.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeColor.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeGradient.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTPAttributeParticlesEmitters.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTSpriteAtlasPackNode.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTModelCircle.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTComponentMotor.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTComponentIsoJump.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTComponentSlide.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTComponentMove.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTComponentRotationMapper.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(PTAdObject.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+core.lib(CCParallaxScrollOffset.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2RevoluteJoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2Body.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2World.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2Fixture.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2MouseJoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2CircleShape.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2PolygonShape.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2Joint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2BroadPhase.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2ContactManager.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2DynamicTree.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2Island.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2PulleyJoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2Contact.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2DistanceJoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2WheelJoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2PrismaticJoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2GearJoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2WeldJoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2FrictionJoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2RopeJoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2MotorJoint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2WorldCallbacks.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2ContactSolver.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2CircleContact.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2PolygonAndCircleContact.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2PolygonContact.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2EdgeAndCircleContact.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2EdgeAndPolygonContact.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2ChainAndCircleContact.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2ChainAndPolygonContact.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2ChainShape.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+box2d.lib(b2EdgeShape.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(OISInputManager.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(OISKeyboard.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(OISException.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(Win32InputManager.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(Win32KeyBoard.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(Win32Mouse.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(Win32JoyStick.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(OISJoyStick.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(OISForceFeedback.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(Win32ForceFeedback.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(OISEffect.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+ois.lib(OISEffect.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+ois.lib(Win32JoyStick.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+ois.lib(OISJoyStick.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+ois.lib(OISForceFeedback.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+ois.lib(Win32ForceFeedback.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+ois.lib(OISException.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+ois.lib(Win32InputManager.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+ois.lib(Win32KeyBoard.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+ois.lib(Win32Mouse.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAdObject.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(CCParallaxScrollOffset.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+ois.lib(OISInputManager.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+ois.lib(OISKeyboard.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTComponentIsoJump.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTComponentSlide.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTComponentMove.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTComponentRotationMapper.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeParticlesEmitters.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTSpriteAtlasPackNode.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelCircle.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTComponentMotor.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeShape.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributePath.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeColor.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeGradient.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAdHeyzap.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAdVungle.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAnimationCurve.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(CCParallaxScrollNode.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAdRevMob.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAdAppLovin.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAdLeadBolt.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAdFacebook.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectManipulator.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAdAdMob.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAdChartboost.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAdIAd.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectButtonUnlockCharacter.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectButtonLock.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeSound.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeAnimation.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTComponentHealth.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectButtonUrl.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectButtonFacebook.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectButtonSwitch.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetPath.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetParticles.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetGatekeeper.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetScreenJump.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetLight.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetLogic.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetTrail.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetFlag.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeAsset.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTComponent.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetUnit.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelPolygon.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPLockController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeGroup.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponent.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelAsset.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeSprite.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeBoolean.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeKey.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeString.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectSwipeControl.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeAction.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeFloat.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributePoint.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectInstance.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectLabel.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectLoadingBar.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectLockButton.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectButtonSoundControl.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectButtonSwitch.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectCharacterSelector.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectGroup.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectButtonCharacterUnlock.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectButtonControl.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectButtonUrl.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectButtonFacebook.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetScreenJump.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetTeleport.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetTrail.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectBackground.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetMirror.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetParticles.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetParticlesEmitter.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetPath.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetFlag.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetGatekeeper.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetLight.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetLogic.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelAssetObstacle.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectManipulator.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAccelerometer.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetCharacter.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTNodeScene.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTNodeUI.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTNodeUIStart.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelAssetCharacter.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentSpawner.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentWakeup.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentForcedMovement.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentDeletionThreshold.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentMotor.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentMove.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentRotationMapper.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentSlide.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentCharacterGameplaySettings.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentCharacterIcon.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentDamage.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentIsoJump.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelAnimation.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelAtlas.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelFont.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetUnit.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectSwipeControl.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTSoundController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTStore.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelSprite.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectEventObserver.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectLoadingBar.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectImage.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectCharacterSelector.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelAssetPowerup.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectButtonPowerup.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectButtonPurchase.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectButtonJoystick.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTNode.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttributeEnum.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectEventObserver.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectUnlocker.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPCheckpointsController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTSpriteUtils.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(GLESDebugDrawLayer.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAttribute.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetMirror.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelScreenScene.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPScreenUi.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPScoreController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectBackgroundLayer.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectGeneralSettings.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectGroup.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetTeleport.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAnimationObject.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelScreen.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectText.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetPowerup.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAssetPowerup.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectImage.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectButton.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectButtonPowerup.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPGameFieldCamera.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelSound.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelSpriteContainer.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObject.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAccelerometer.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTAdController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(GLESDebugDraw.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPContactListener.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelLevelSection.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectButtonPurchase.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentHealth.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTServices.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAsset.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectAssetCharacter.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObjectButton.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelLinker.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModel.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelCompound.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPObject.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelObjectAsset.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPScreen.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelGeneralSettings.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPSettingsController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPInputController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPAppDelegate.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPScreenScene.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTPScreensController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) char const * __cdecl std::_Winerror_map(int)" (__imp_?_Winerror_map@std@@YAPBDH@Z)
+core.lib(PTModelComponentMove.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __thiscall std::basic_istream<char,struct std::char_traits<char> >::seekg(class std::fpos<int>)" (__imp_?seekg@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@V?$fpos@H@2@@Z)
+core.lib(PTModelController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __thiscall std::basic_istream<char,struct std::char_traits<char> >::seekg(class std::fpos<int>)" (__imp_?seekg@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@V?$fpos@H@2@@Z)
+core.lib(PTPScoreController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __thiscall std::basic_istream<char,struct std::char_traits<char> >::seekg(class std::fpos<int>)" (__imp_?seekg@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@V?$fpos@H@2@@Z)
+core.lib(PTPCheckpointsController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __thiscall std::basic_istream<char,struct std::char_traits<char> >::seekg(class std::fpos<int>)" (__imp_?seekg@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@V?$fpos@H@2@@Z)
+core.lib(PTModelComponentIsoJump.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __thiscall std::basic_istream<char,struct std::char_traits<char> >::seekg(class std::fpos<int>)" (__imp_?seekg@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@V?$fpos@H@2@@Z)
+core.lib(PTModelController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::fpos<int> __thiscall std::basic_istream<char,struct std::char_traits<char> >::tellg(void)" (__imp_?tellg@?$basic_istream@DU?$char_traits@D@std@@@std@@QAE?AV?$fpos@H@2@XZ)
+core.lib(PTPObjectCharacterSelector.obj) : error LNK2001: unresolved external symbol __imp__sprintf
+core.lib(PTPAttributeFloat.obj) : error LNK2001: unresolved external symbol __imp__sprintf
+core.lib(PTPAttributePoint.obj) : error LNK2001: unresolved external symbol __imp__sprintf
+core.lib(PTModelGeneralSettings.obj) : error LNK2001: unresolved external symbol __imp__sprintf
+core.lib(PTPSettingsController.obj) : error LNK2001: unresolved external symbol __imp__sprintf
+core.lib(PTPObjectAssetPowerup.obj) : error LNK2001: unresolved external symbol __imp__sprintf
+core.lib(PTPObjectButtonPowerup.obj) : error LNK2001: unresolved external symbol __imp__sprintf
+core.lib(PTServices.obj) : error LNK2001: unresolved external symbol __imp__printf
+core.lib(PTPScoreController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::seekp(class std::fpos<int>)" (__imp_?seekp@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@V?$fpos@H@2@@Z)
+core.lib(PTPCheckpointsController.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::seekp(class std::fpos<int>)" (__imp_?seekp@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@V?$fpos@H@2@@Z)
+core.lib(PTModelComponentIsoJump.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::seekp(class std::fpos<int>)" (__imp_?seekp@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@V?$fpos@H@2@@Z)
+core.lib(PTModelComponentMove.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::seekp(class std::fpos<int>)" (__imp_?seekp@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@V?$fpos@H@2@@Z)
+box2d.lib(b2Settings.obj) : error LNK2001: unresolved external symbol __imp__vprintf
+ois.lib(Win32JoyStick.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(void)" (__imp_??0exception@std@@QAE@XZ)
+ois.lib(OISForceFeedback.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(void)" (__imp_??0exception@std@@QAE@XZ)
+ois.lib(Win32ForceFeedback.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(void)" (__imp_??0exception@std@@QAE@XZ)
+ois.lib(OISEffect.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(void)" (__imp_??0exception@std@@QAE@XZ)
+ois.lib(OISInputManager.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(void)" (__imp_??0exception@std@@QAE@XZ)
+ois.lib(Win32InputManager.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(void)" (__imp_??0exception@std@@QAE@XZ)
+ois.lib(Win32KeyBoard.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(void)" (__imp_??0exception@std@@QAE@XZ)
+ois.lib(Win32Mouse.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(void)" (__imp_??0exception@std@@QAE@XZ)
+MSVCRT.lib(vsnprintf.obj) : error LNK2001: unresolved external symbol __imp___vsnprintf
+V:\GameDev\PACKT\Content\Builds\Steam\RemblinRover-Chapter7\win32\Release.win32\PTPlayer.exe : fatal error LNK1120: 9 unresolved externals

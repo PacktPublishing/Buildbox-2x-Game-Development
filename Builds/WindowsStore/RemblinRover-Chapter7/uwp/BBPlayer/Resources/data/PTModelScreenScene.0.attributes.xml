@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1394</string>
+                <key>className</key>
+                <string>PTModelScreenScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-20.000}</string>
+                </dict>
+                <key>Time Warp</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.800000</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Speed Increase</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.300000</string>
+                </dict>
+                <key>Bounce</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.002000</string>
+                </dict>
+                <key>Back Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                </dict>
+                <key>Sides Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>700.000000</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenScene 1</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>0</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0349,-0.0065},{0.3621,1.0129}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1900</string>
+                <key>className</key>
+                <string>PTModelScreenScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-75.000}</string>
+                </dict>
+                <key>Time Warp</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.800000</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Speed Increase</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.600000</string>
+                </dict>
+                <key>Bounce</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.010000</string>
+                </dict>
+                <key>Back Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                </dict>
+                <key>Sides Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>700.000000</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenScene 2</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>0</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0437,-0.0016},{0.3533,1.0096}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1921</string>
+                <key>className</key>
+                <string>PTModelScreenScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-55.000}</string>
+                </dict>
+                <key>Time Warp</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.800000</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Speed Increase</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                </dict>
+                <key>Bounce</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.005000</string>
+                </dict>
+                <key>Back Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                </dict>
+                <key>Sides Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>700.000000</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenScene 3</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>0</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0275,0.0032},{0.3695,1.0048}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3433</string>
+                <key>className</key>
+                <string>PTModelScreenScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-20.000}</string>
+                </dict>
+                <key>Time Warp</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.800000</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Speed Increase</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.300000</string>
+                </dict>
+                <key>Bounce</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.002000</string>
+                </dict>
+                <key>Back Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                </dict>
+                <key>Sides Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>700.000000</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenScene 4</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>0</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0347,0.0000},{0.3336,1.0000}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5727</string>
+                <key>className</key>
+                <string>PTModelScreenScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-75.000}</string>
+                </dict>
+                <key>Time Warp</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.800000</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Speed Increase</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.600000</string>
+                </dict>
+                <key>Bounce</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.010000</string>
+                </dict>
+                <key>Back Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                </dict>
+                <key>Sides Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>700.000000</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenScene 5</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>0</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0347,0.0000},{0.3336,1.0000}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7683</string>
+                <key>className</key>
+                <string>PTModelScreenScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-55.000}</string>
+                </dict>
+                <key>Time Warp</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.800000</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Speed Increase</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                </dict>
+                <key>Bounce</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.010000</string>
+                </dict>
+                <key>Back Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                </dict>
+                <key>Sides Deletion Threshold</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>700.000000</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenScene 6</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>0</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0728,0.0016},{0.2955,0.9984}}</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

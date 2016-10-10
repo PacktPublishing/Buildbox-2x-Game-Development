@@ -1,0 +1,4 @@
+﻿     Creating library V:\GameDev\PACKT\Content\Builds\WindowsStore\RemblinRover-Chapter7\uwp\Release\BBPlayer\BBPlayer.lib and object V:\GameDev\PACKT\Content\Builds\WindowsStore\RemblinRover-Chapter7\uwp\Release\BBPlayer\BBPlayer.exp
+  Generating code
+v:\gamedev\packt\content\builds\windowsstore\remblinrover-chapter7\uwp\bbplayer\generated files\xamltypeinfo.g.cpp : fatal error C1083: Cannot open compiler intermediate file: 'V:\GameDev\PACKT\Content\Builds\WindowsStore\RemblinRover-Chapter7\uwp\Release\BBPlayer\BBPlayer.ipdb': Permission denied
+LINK : fatal error LNK1257: code generation failed

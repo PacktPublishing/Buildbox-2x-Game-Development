@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>5f0762dd-9274-44a7-b7d1-1cbddf184aa3</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>59adcbff-4832-426b-b8a3-050a74f05179</UniqueIdentifier>
+      <Extensions>bmp;fbx;gif;jpg;jpeg;tga;tiff;tif;png</Extensions>
+    </Filter>
+    <Filter Include="Cocos2dEngine">
+      <UniqueIdentifier>{ed3605eb-2f77-446a-ab14-2916f0b55e70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.xaml.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="Cocos2dEngine\Cocos2dRenderer.cpp">
+      <Filter>Cocos2dEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="Cocos2dEngine\OpenGLES.cpp">
+      <Filter>Cocos2dEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="Cocos2dEngine\OpenGLESPage.xaml.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="App.xaml.h" />
+    <ClInclude Include="Cocos2dEngine\Cocos2dRenderer.h">
+      <Filter>Cocos2dEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="Cocos2dEngine\OpenGLES.h">
+      <Filter>Cocos2dEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="Cocos2dEngine\OpenGLESPage.xaml.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\SplashScreen.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Wide310x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square71x71Logo.scale-400.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square71x71Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square71x71Logo.scale-100.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-400.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-100.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Wide310x150Logo.scale-400.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Wide310x150Logo.scale-100.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.scale-400.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.scale-400.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.scale-150.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.scale-125.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.scale-100.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BBPlayer_TemporaryKey.pfx" />
+    <None Include="libcocos2d.dll" />
+    <None Include="libEGL.dll" />
+    <None Include="libGLESv2.dll" />
+    <None Include="libvorbisfile.dll" />
+    <None Include="zlib.dll" />
+    <None Include="libogg.dll" />
+    <None Include="libvorbis.dll" />
+    <None Include="Package.StoreAssociation.xml" />
+    <None Include="BBPlayer_StoreKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Cocos2dEngine\OpenGLESPage.xaml">
+      <Filter>Cocos2dEngine</Filter>
+    </Page>
+  </ItemGroup>
+</Project>

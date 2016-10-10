@@ -1,0 +1,46 @@
+# MTL written from /Volumes/Amy/3D Sphere/modo projects/psycho-lops_lux_obj/Psycho-obj.obj
+newmtl Cornia
+Kd 0.988235 0.988235 0.988235
+Ns 20
+d 0
+illum 2
+Ka 0 0 0
+Ks 1.44706 1.44706 1.44706
+newmtl Eyeball
+Kd 0.980392 0.976471 0.988235
+Ns 50
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.12 0.117333 0.1168
+map_Kd /Volumes/Amy/3D Sphere/modo projects/psycho-lops_lux_obj/eyeball_Yellow.jpg
+newmtl Stud_032Spikes
+Kd 0.901961 0.721569 0.458824
+Ns 10
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.6 0.6 0.6
+newmtl Thong
+Kd 0.431373 0.215686 0.0666667
+Ns 10
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.381176 0.290196 0.257255
+newmtl Thong_032Bans
+Kd 0.431373 0.215686 0.0666667
+Ns 10
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.381176 0.290196 0.257255
+newmtl skine
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.1 0.1 0.1
+map_Kd /Volumes/Amy/3D Sphere/modo projects/psycho-lops_lux_obj/Psycho_body_texture.jpg
+map_Bump /Volumes/Amy/3D Sphere/modo projects/psycho-lops_lux_obj/Psycho_body_bump.jpg

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.audronis.ramblinrover"
+    android:versionCode="1"
+    android:versionName="1.04">
+
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="23"/>
+
+    <application android:label="@string/app_name"
+        android:icon="@drawable/icon"
+        android:allowBackup="true">
+
+        <activity android:name=".PTPlayer"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:configChanges="orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+<!-- Amazon GameCircles  -->
+        <activity android:name="com.amazon.ags.html5.overlay.GameCircleUserInterface"
+            android:theme="@style/GCOverlay" android:hardwareAccelerated="false">
+        </activity>
+        <activity
+            android:name="com.amazon.identity.auth.device.authorization.AuthorizationActivity"
+            android:theme="@android:style/Theme.NoDisplay"
+            android:allowTaskReparenting="true"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:host="com.audronis.ramblinrover" android:scheme="amzn" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.amazon.ags.html5.overlay.GameCircleAlertUserInterface"
+		android:theme="@style/GCAlert" android:hardwareAccelerated="false">
+        </activity>
+        <receiver
+            android:name="com.amazon.identity.auth.device.authorization.PackageIntentReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_INSTALL" />
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+<!-- Amazon GameCircles  -->
+
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data android:name="com.google.android.gms.games.APP_ID" 
+            android:value="0" />
+
+<!-- APPLOVIN SDK --><!--
+        <activity android:name="com.applovin.adview.AppLovinInterstitialActivity" />
+        <activity android:name="com.applovin.adview.AppLovinConfirmationActivity" />
+--><!-- APPLOVIN SDK -->
+       
+<!-- REVMOB -->
+        <activity android:name="com.revmob.FullscreenActivity"
+            android:theme="@android:style/Theme.Translucent"
+            android:configChanges="keyboardHidden|orientation">
+        </activity>
+        <meta-data android:name="com.revmob.app.id" android:value="576b1f5e7b573ba26b7c9383"/>
+<!-- REVMOB -->
+  
+        <receiver android:name="com.amazon.device.iap.ResponseReceiver" >
+            <intent-filter>
+                <action android:name="com.amazon.inapp.purchasing.NOTIFY"
+                    android:permission="com.amazon.inapp.purchasing.Permission.NOTIFY" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+    <supports-screens android:largeScreens="true"
+        android:smallScreens="true"
+        android:anyDensity="true"
+        android:normalScreens="true"/>
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- <uses-permission android:name="com.android.vending.BILLING" /> -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+
+</manifest> 

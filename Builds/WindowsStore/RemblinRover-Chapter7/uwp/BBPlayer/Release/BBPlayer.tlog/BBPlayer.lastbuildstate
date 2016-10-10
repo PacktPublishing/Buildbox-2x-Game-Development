@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.10586.0
+Release|Win32|V:\GameDev\PACKT\Content\Builds\WindowsStore\RemblinRover-Chapter7\uwp\|
